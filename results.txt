@@ -1,0 +1,202 @@
+Separable
+
+Best Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+Test Set Accuracy: 0.9962
+
+Cross-Validation Results:
+Mean CV Score: 0.5203, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.9044, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.5086, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5203, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.9194, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.5203, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5203, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.9632, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.5111, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5203, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.9462, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.5169, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5203, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.9731, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.5008, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5203, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.9556, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.5048, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5203, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.9943, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.4994, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5203, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.9611, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.4875, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5203, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.9960, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.4988, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5203, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.9805, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5203, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.4849, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'sigmoid'}
+
+Expected Classification Error from Cross-Validation: 0.004000000000000115
+Comparison:
+Expected CV Error < Test Set Error: False
+
+Merged
+
+Best Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+Test Set Accuracy: 0.9788
+
+Cross-Validation Results:
+Mean CV Score: 0.5515, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.7501, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.4712, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5515, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.7546, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.5515, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5515, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.7698, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.4989, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5515, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.7621, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.4893, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5515, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.7721, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.4905, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5515, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.7637, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.4815, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5515, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.7818, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.4899, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5515, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.7674, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.4794, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5515, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.7791, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.4899, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.5515, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.7691, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.5515, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.4800, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'sigmoid'}
+
+Expected Classification Error from Cross-Validation: 0.21820000000000006
+Comparison:
+Expected CV Error < Test Set Error: False
+
+
+Bank
+Best Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'linear'}
+Test Set Accuracy: 0.11349842194707453
+
+Cross-Validation Results:
+Mean CV Score: 1.0000, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.9036, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.8876, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.8876, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.8876, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 1.0000, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 1.0000, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 1.0000, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 1.0000, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.9977, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 1.0000, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 1.0000, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 1.0000, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 1.0000, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 1.0000, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 1.0000, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 1.0000, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.9946, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 1.0000, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 1.0000, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 1.0000, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 1.0000, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 1.0000, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 1.0000, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 1.0000, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.9948, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 1.0000, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 1.0000, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 1.0000, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 1.0000, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'sigmoid'}
+
+Expected Classification Error from Cross-Validation: 0.0
+Comparison:
+Expected CV Error < Test Set Error: True
+
+Diabetes
+Best Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}
+Test Set Accuracy: 0.7901234567901234
+
+Cross-Validation Results:
+Mean CV Score: 0.6562, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.6562, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.7625, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.6562, Parameters: {'C': 0.01, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.6562, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.6562, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.6562, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.6562, Parameters: {'C': 0.01, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.6844, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.7625, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.7656, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.6500, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.6844, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.6562, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.6562, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.6562, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.7656, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.7531, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.7594, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.4125, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.7656, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.7688, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.6562, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.7031, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.7625, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.7438, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.7406, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.6969, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.7625, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.7719, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.7281, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.7656, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'sigmoid'}
+Mean CV Score: 0.7562, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'linear'}
+Mean CV Score: 0.7344, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean CV Score: 0.7219, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'poly'}
+Mean CV Score: 0.6906, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'sigmoid'}
+Mean CV Score: 0.7562, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'linear'}
+Mean CV Score: 0.7625, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean CV Score: 0.7656, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'poly'}
+Mean CV Score: 0.7562, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'sigmoid'}
+
+Expected Classification Error from Cross-Validation: 0.22812500000000002
+Comparison:
+Expected CV Error < Test Set Error: False
